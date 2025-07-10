@@ -21,7 +21,6 @@ This project is a smart AI-powered triage service designed to help customer supp
 
 ```bash
 git clone https://github.com/zedekiah85/caava-ai-assignment.git
-cd customer-triage-llm-extended
 ```
 
 Or unzip the provided ZIP file.
@@ -78,7 +77,7 @@ Visit `http://localhost:8501` in your browser to use the UI.
 ## Design Choices & Trade-Offs
 
 ###  **LLM Provider Abstraction**
-- **Choice**: We implemented a `llm_providers.py` module with an `OpenAIProvider` class.
+- **Choice**: I implemented a `llm_providers.py` module with an `OpenAIProvider` class.
 - **Trade-off**: Currently supports only OpenAI but easily extendable to Gemini, Claude, or open-source models using the same interface.
 
 ###  **Dynamic Categories**
