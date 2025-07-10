@@ -1,0 +1,22 @@
+[
+  {
+    "label": "TECHNICAL_SUPPORT",
+    "description": "Problems using the product, errors, bugs, or performance issues."
+  },
+  {
+    "label": "BILLING_INQUIRY",
+    "description": "Questions about invoices, payments, subscriptions, refunds, or pricing."
+  },
+  {
+    "label": "SALES",
+    "description": "Pre-purchase inquiries about features, pricing plans, or demonstrations."
+  },
+  {
+    "label": "ACCOUNT_MANAGEMENT",
+    "description": "Requests to update personal information, change plans, or cancel an account."
+  },
+  {
+    "label": "GENERAL_FEEDBACK",
+    "description": "Suggestions, compliments, or general comments not requiring immediate action."
+  }
+]
